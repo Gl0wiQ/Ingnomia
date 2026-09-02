@@ -110,7 +110,7 @@
                 "Key2": {
                     "Alt": false,
                     "Ctrl": false,
-                    "Key": "Z",
+                    "Key": "",
                     "Shift": false
                 }
             },
@@ -126,7 +126,7 @@
                 "Key2": {
                     "Alt": false,
                     "Ctrl": false,
-                    "Key": "X",
+                    "Key": "",
                     "Shift": false
                 }
             },
